@@ -3,3 +3,4 @@
 
 Este proyecto contiene el curso de introducción a GIT
 # tarea_de_git
+Desarrollado por Jose
