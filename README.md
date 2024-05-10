@@ -1,4 +1,4 @@
-# José Manuel Ortiz Evangelista
+#José Manuel Ortiz Evangelista
 # Curso de GIT, Mayo, 2024
 
 Este proyecto contiene el curso de introducción a GIT
